@@ -1,5 +1,12 @@
-# Exploratory-Data-Analysis-with-python
+# 1 - Exploratory-Data-Analysis-with-python
 Finding main characteristics which have the most impact in predicting car prices.
+
+# 2 - Predicting Housing Prices
+Finding main characteristics which have the most impact in predicting housing prices and using them to predict prices.
+   * Data Wrangling
+   * Exploratory Data Analysis
+   * Model Development
+   * Model Evaluation and Refinement
 
 ## Libraries:
    * Pandas
@@ -7,6 +14,7 @@ Finding main characteristics which have the most impact in predicting car prices
    * Seaborn
    * Matplotlib
    * scipy
+   * scikit-learn
 
 ## How to use:
    * Make sure [python](https://www.python.org) and [anaconda](https://www.anaconda.com) is installed in your system, if not, download each for your system.
